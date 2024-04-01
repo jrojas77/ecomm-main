@@ -14,7 +14,7 @@ export default function Header() {
         <h3 class="fcf-h3">Contact us</h3>
         
             <div class="fcf-form-group">
-                <label for="Name" class="fcf-label">Your name</label>
+                <label for="Name" class="fcf-label">Your name student</label>
                 <div class="fcf-input-group">
                     <input type="text" id="Name" name="Name" class="fcf-form-control" />
                 </div>
